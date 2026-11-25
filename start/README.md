@@ -1,4 +1,4 @@
-# Ćwiczenia 6 – pliki startowe (część B)
+# Ćwiczenia 7 – pliki startowe (część B)
 
 Wymagania: działający XAMPP (Apache + MySQL) i SklepTO pod adresem `http://localhost/sklepto`
 (część A instrukcji). Inny port? Ustaw zmienną `SKLEPTO_URL`, np. `http://localhost:8080/sklepto`.
