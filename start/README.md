@@ -1,7 +1,6 @@
 # Ćwiczenia 7 – pliki startowe (część B)
 
-Wymagania: działający XAMPP (Apache + MySQL) i SklepTO pod adresem `http://localhost/sklepto`
-(część A instrukcji). Inny port? Ustaw zmienną `SKLEPTO_URL`, np. `http://localhost:8080/sklepto`.
+Wymagania: działający XAMPP (Apache + MySQL) i SklepTO pod adresem `http://localhost/sklepto`. Inny port? Ustaw zmienną `SKLEPTO_URL`, np. `http://localhost:8080/sklepto`.
 
 1. Skopiuj zawartość tego katalogu do projektu 
 2. `pip install -r requirements.txt` (plik z katalogu `wspolne` materiałów kursu).
